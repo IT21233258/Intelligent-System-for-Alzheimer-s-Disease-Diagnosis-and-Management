@@ -20,7 +20,7 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
 
 ### Key Objectives
 - Early Diagnosis: Utilize brain MRI scans to detect and monitor Alzheimer's Disease at its early stages.
-- Emotion Recognition and Response System: Develop tools using facial expression and voice data to assess emotional states and provide interventions.
+- Emotion Recognition and Response System: Develop a machine learning-based system that can accurately detect by using facial expression data and voice data and analyze the emotional states of Alzheimer's patients and provide tailored responses or interventions to enhance their emotional well-being.
 - Memory Therapy: Create gamified activities to improve cognitive function and monitor memory performance.
 - Geo-Location Fencing: Implement safe-zone boundaries with alerts for Alzheimer's patients to enhance their safety.
 - Cloud Integration: Ensure accessibility and scalability through AWS cloud services.
@@ -31,7 +31,7 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
 ### Core Technologies
 - **Programming Languages**: Python, JavaScript (React.js, Node.js)  
 - **Frameworks & Libraries**: TensorFlow, Keras, OpenCV, NumPy  
-- **Deep Learning Architectures**: EfficientNetV2B0, ResNet50, YOLOv3  
+- **Deep Learning Architectures**: EfficientNetV2B0, ResNet50, YOLOv3, VGG16, RandomForest  
 - **Cloud Services**: AWS  
 - **Other Tools**: Firebase, Flask, React Native, Arduino IDE  
 
@@ -70,7 +70,7 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
   - Storage: SSD with 50GB free space  
 
 ## Development Workflow
-1. Data Collection: Gather MRI images, cognitive test results, and voice data.
+1. Data Collection: Gather MRI images, cognitive test results, face images and voice data.
 2. Data Preprocessing: Clean and prepare datasets for analysis.
 3. Model Training: Train models using TensorFlow and YOLOv3 for accurate predictions.
 4. Deployment: Deploy the system on AWS for real-time accessibility.
