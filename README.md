@@ -20,7 +20,7 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
 
 ### Key Objectives
 - Early Diagnosis: Utilize brain MRI scans to detect and monitor Alzheimer's Disease at its early stages.
-- Emotion Recognition: Develop tools using facial expression and voice data to assess emotional states and provide interventions.
+- Emotion Recognition and Response System: Develop tools using facial expression and voice data to assess emotional states and provide interventions.
 - Memory Therapy: Create gamified activities to improve cognitive function and monitor memory performance.
 - Geo-Location Fencing: Implement safe-zone boundaries with alerts for Alzheimer's patients to enhance their safety.
 - Cloud Integration: Ensure accessibility and scalability through AWS cloud services.
