@@ -79,7 +79,7 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
 ## Future Enhancements
 - Expand dataset for better model generalization.
 - Integrate multilingual support for voice data.
-- Develop mobile applications for greater reach.
+- Develop Web applications for greater reach.
 
 
 ## git link
