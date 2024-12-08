@@ -81,6 +81,8 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
 - Integrate multilingual support for voice data.
 - Develop Web applications for greater reach.
 
+## Architectural Diagram
+
 <img width="2904" alt="Archtectural_Digram" src="https://github.com/user-attachments/assets/4670d518-c9bc-4864-a661-92d7917530e7">
 
 
