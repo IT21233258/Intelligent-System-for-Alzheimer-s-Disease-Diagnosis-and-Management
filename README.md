@@ -44,7 +44,7 @@ This project focuses on developing an **Intelligent System for Alzheimer's Disea
 - Convolutional Neural Networks (CNNs) for image and audio processing  
 - Data Augmentation and Preprocessing  
 - Dynamic Question Generation for Memory Therapy  
-- Geo-Location Fencing and Safe Zone Monitoring  
+- Geo-Location Fencing, Safe Zone Monitoring and Reminder alert System 
 - Object-Oriented Design and Event-Driven Programming  
 
 
